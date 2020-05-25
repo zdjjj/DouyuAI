@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="p6e_broadcast-master">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/p6e_broadcast-master" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Downloads/p6e_broadcast-master/src/main/java" />
+      <root url="file://$USER_HOME$/Downloads/p6e_broadcast-master/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/Downloads/p6e_broadcast-master" recursive="false" />
+  </library>
+</component>
