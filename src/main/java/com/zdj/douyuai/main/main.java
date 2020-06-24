@@ -17,6 +17,7 @@ public class main {
         new main().douyuShow();
 
     }
+    //hello
     public void douyuShow() throws InterruptedException {
         P6eDouYuChannel.create("5384600", new P6eChannelCallback.DouYu() {
             @Override
